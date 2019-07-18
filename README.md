@@ -6,6 +6,6 @@ Head over to the wiki to see the content https://github.com/holasciarts/steam-cl
 
 Feel free to copy, use, modify and redistribute any of these materials. 
 
-If you have questions or suggestions you can contact us on github or at ftobon@heartofla.org
+If you have questions or suggestions you can contact us on github or at federico@heartofla.org or abraham@heartofla.org
 
 Happy Making!
