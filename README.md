@@ -9,3 +9,5 @@ Feel free to copy, use, modify and redistribute any of these materials.
 If you have questions or suggestions you can contact us on github or at federico@heartofla.org or abraham@heartofla.org
 
 Happy Making!
+
+![Logo](https://github.com/holasciarts/steam-classes/blob/master/images/logo.png)
